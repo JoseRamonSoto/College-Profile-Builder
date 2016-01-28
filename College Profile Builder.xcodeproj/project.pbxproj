@@ -87,6 +87,7 @@
 				3F3638831C4FF68E001C7EB1 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		3F3638831C4FF68E001C7EB1 /* Products */ = {
 			isa = PBXGroup;
